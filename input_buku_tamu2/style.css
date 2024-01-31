@@ -1,0 +1,17 @@
+.contoh {
+    display: grid ;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    justify-items: left;
+    padding-top: 2rem ;
+    margin-bottom: 2rem;
+}
+.col-12 {
+    width: 40rem;
+}
+
+.col-11 {
+    display:grid;
+    justify-content: center;
+}
+
